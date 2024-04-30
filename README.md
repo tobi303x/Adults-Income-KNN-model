@@ -1,8 +1,8 @@
 # Adults Income Dataset kNN Model and Interactive Visualizations using Plotly Dash 💰📈
-
+[![kNN](https://img.youtube.com/vi/SL2yieiaI7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=SL2yieiaI7I)
+[![Dist](https://img.youtube.com/vi/LTO0hUeRsS4//maxresdefault.jpg)](https://www.youtube.com/watch?v=LTO0hUeRsS4)
 ## Introduction
 This project aims to build a kNN (k-Nearest Neighbors) model for predicting the income levels of adults based on various features. Additionally, interactive visualizations using Plotly Dash have been implemented to explore the dataset and model results.
-
 ### Prerequisites
 Before running the notebook, ensure that you have the following Python packages installed:
 - dash
