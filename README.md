@@ -1,5 +1,5 @@
 # Adults Income Dataset kNN Model and Interactive Visualizations using Plotly Dash 💰📈
-### **If u don't wanna run the nottebooks just take look at my youtube videos 👇👇👇**
+### **If u don't wanna run the notebooks just take look at my youtube videos 👇👇👇**
 [![kNN](https://img.youtube.com/vi/SL2yieiaI7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=SL2yieiaI7I)
 [![Dist](https://img.youtube.com/vi/LTO0hUeRsS4/hqdefault.jpg)](https://www.youtube.com/watch?v=LTO0hUeRsS4)
 
